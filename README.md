@@ -1,0 +1,1 @@
+#Fizzbuzz Basic JS Excercise with logging to browser console
