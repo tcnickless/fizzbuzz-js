@@ -1,1 +1,1 @@
-# Fizzbuzz Basic JS Excercise with Logging to Browser Cnsole
+# Fizzbuzz Basic JS Excercise with Logging to Browser Console
